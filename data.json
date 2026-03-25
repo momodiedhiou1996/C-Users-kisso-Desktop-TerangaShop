@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "2c47ccd6-6c9c-430d-9904-5df2549f6005",
+      "name": "DIEDHIOU MAMADOU",
+      "phone": "+221774950801",
+      "email": "madiedhiou12@gmail.com",
+      "password": "Momo080396",
+      "store": {
+        "name": "Royal teranga",
+        "description": "",
+        "slug": "royalteranga",
+        "products": [],
+        "orders": [
+          {
+            "id": "999aeae4-ce9a-4dfe-82dd-eb98f5b515e7",
+            "productId": "14738f02-5b5e-4de5-9000-d87131253833",
+            "quantity": 1,
+            "total": 10000,
+            "paymentMethod": "cod",
+            "status": "pending",
+            "createdAt": 1773441220899
+          }
+        ],
+        "goal": 0,
+        "sales": 10000,
+        "customers": [
+          {
+            "id": "5f1b2ff8-d4d9-4c0d-8196-f44d6c99d4df",
+            "date": 1773441220899,
+            "amount": 10000
+          }
+        ]
+      },
+      "socialLinks": {
+        "whatsapp": "https://wa.me/221774950801",
+        "facebook": "",
+        "instagram": "",
+        "twitter": ""
+      }
+    }
+  ]
+}
